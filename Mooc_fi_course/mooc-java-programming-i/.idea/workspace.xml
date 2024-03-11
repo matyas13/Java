@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0de7d68-367d-4fc5-a6fe-afc191068cfa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_01.Sandbox/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_01.Sandbox/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_01.Sandbox/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_01.Sandbox/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_01.Sandbox/src/test/java/SandboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_01.Sandbox/src/test/java/SandboxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/src/test/java/AdaLovelaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_02.AdaLovelace/src/test/java/AdaLovelaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/src/test/java/OnceUponATimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_03.OnceUponATime/src/test/java/OnceUponATimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/src/test/java/DinosaurTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_04.Dinosaur/src/test/java/DinosaurTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_05.Message/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_05.Message/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_05.Message/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_05.Message/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_05.Message/src/test/java/MessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_05.Message/src/test/java/MessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/src/test/java/HiAdaLovelaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_06.HiAdaLovelace/src/test/java/HiAdaLovelaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/src/test/java/MessageThreeTimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_07.MessageThreeTimes/src/test/java/MessageThreeTimesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_08.Greeting/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_08.Greeting/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_08.Greeting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_08.Greeting/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_08.Greeting/src/test/java/GreetingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_08.Greeting/src/test/java/GreetingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_09.Conversation/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_09.Conversation/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_09.Conversation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_09.Conversation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_09.Conversation/src/test/java/ConversationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_09.Conversation/src/test/java/ConversationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_10.Story/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_10.Story/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_10.Story/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_10.Story/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_10.Story/src/test/java/StoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_10.Story/src/test/java/StoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/src/test/java/VariousVariablesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_11.VariousVariables/src/test/java/VariousVariablesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/src/test/java/IntegerInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_12.IntegerInput/src/test/java/IntegerInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/src/test/java/DoubleInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_13.DoubleInput/src/test/java/DoubleInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/src/test/java/BooleanInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_14.BooleanInput/src/test/java/BooleanInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/src/test/java/DifferentTypesOfInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_15.DifferentTypesOfInput/src/test/java/DifferentTypesOfInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/src/main/java/SecondsInADay.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/src/main/java/SecondsInADay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/src/test/java/SecondsInADayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_16.SecondsInADay/src/test/java/SecondsInADayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/src/main/java/SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/src/main/java/SumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/src/test/java/SumOfTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_17.SumOfTwoNumbers/src/test/java/SumOfTwoNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/src/main/java/SumOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/src/main/java/SumOfThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/src/test/java/SumOfThreeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_18.SumOfThreeNumbers/src/test/java/SumOfThreeNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/src/main/java/AdditionFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/src/main/java/AdditionFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/src/test/java/AdditionFormulaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_19.AdditionFormula/src/test/java/AdditionFormulaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/src/main/java/MultiplicationFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/src/main/java/MultiplicationFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/src/test/java/MultiplicationFormulaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_20.MultiplicationFormula/src/test/java/MultiplicationFormulaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/src/main/java/AverageOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/src/main/java/AverageOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/src/test/java/AverageOfTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_21.AverageOfTwoNumbers/src/test/java/AverageOfTwoNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/src/main/java/AverageOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/src/main/java/AverageOfThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/src/test/java/AverageOfThreeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_22.AverageOfThreeNumbers/src/test/java/AverageOfThreeNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/src/main/java/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/src/main/java/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/src/test/java/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_23.SimpleCalculator/src/test/java/SimpleCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/src/test/java/SpeedingTicketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_24.SpeedingTicket/src/test/java/SpeedingTicketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/src/test/java/CheckYourIndentationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_25.CheckYourIndentation/src/test/java/CheckYourIndentationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_26.Orwell/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_26.Orwell/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_26.Orwell/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_26.Orwell/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_26.Orwell/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_26.Orwell/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_26.Orwell/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_26.Orwell/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_26.Orwell/src/test/java/OrwellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_26.Orwell/src/test/java/OrwellTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_27.Ancient/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_27.Ancient/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_27.Ancient/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_27.Ancient/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_27.Ancient/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_27.Ancient/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_27.Ancient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_27.Ancient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_27.Ancient/src/test/java/AncientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_27.Ancient/src/test/java/AncientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/src/test/java/PositivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/src/test/java/PositivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/src/test/java/AdulthoodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/src/test/java/AdulthoodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/src/test/java/LargerThanOrEqualToTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/src/test/java/LargerThanOrEqualToTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/src/test/java/GradesAndPointsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/src/test/java/GradesAndPointsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/src/test/java/OddOrEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_32.OddOrEven/src/test/java/OddOrEvenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_33.Password/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_33.Password/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_33.Password/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_33.Password/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_33.Password/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_33.Password/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_33.Password/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_33.Password/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_33.Password/src/test/java/PasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_33.Password/src/test/java/PasswordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_34.Same/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_34.Same/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_34.Same/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_34.Same/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_34.Same/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_34.Same/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_34.Same/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_34.Same/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_34.Same/src/test/java/SameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_34.Same/src/test/java/SameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/src/test/java/CheckingTheAgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_35.CheckingTheAge/src/test/java/CheckingTheAgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_36.LeapYear/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_36.LeapYear/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_36.LeapYear/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_36.LeapYear/src/test/java/LeapYearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_36.LeapYear/src/test/java/LeapYearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.tmcproject.json" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.tmcproject.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.tmcproject.yml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_37.GiftTax/.tmcproject.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_37.GiftTax/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_37.GiftTax/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_37.GiftTax/src/test/java/GiftTaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_37.GiftTax/src/test/java/GiftTaxTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dDh9v1Iy9AG69UVgIVqSwmZluU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0de7d68-367d-4fc5-a6fe-afc191068cfa" name="Changes" comment="" />
+      <created>1709548411361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709548411361</updated>
+      <workItem from="1709548413473" duration="281000" />
+      <workItem from="1709548713028" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
