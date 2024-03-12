@@ -12,5 +12,23 @@ public class AverageOfAList {
         // Then it computes the average of the numbers on the list
         // and prints it.
         
+        ArrayList<Integer> list = new ArrayList<>();
+        while (true) {
+            int input = Integer.valueOf(scanner.nextLine());
+            if (input == -1) {
+                break;
+            }
+
+            list.add(input);
+        }
+
+        System.out.println("");
+
+        int sum = 0;
+        for (int i = 0; i < list.size(); i++) {
+            sum += list.get(i);
+        }
+        System.out.println("Average: " + ((float)sum / list.size()));
+        
     }
 }
